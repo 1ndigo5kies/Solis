@@ -3,8 +3,6 @@ import discord
 from discord.ext import commands
 import os
 
-DISCORD_TOKEN = "OTY5NjAzMDE5MzM3NTIzMjMw.YmvzLg.7eLddBWFMsJkEUJ86JxqCF2vxlA"
-
 bot = discord.Client()
 
 @bot.event
